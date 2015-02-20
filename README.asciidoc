@@ -1,0 +1,17 @@
+The Hacker Crackdown
+--------------------
+
+
+Normally we would be showing you a book here.
+Most books from https://gutenberg.org[Project Gutenberg] are in the public domain
+but this book has more complicated licensing.
+
+In the interests of making the GITenberg collection have clear licensing,
+we are not including this book in the GITenberg collection.
+
+If you would like a copy of this book via git, there are other mirrors available:
++ https://github.com/sethwoodworth/The-Hacker-Crackdown--law-and-disorder-on-the-electronic-frontier_101[@Sethwoodworth's mirror]
++ https://github.com/rsperberg/The-Hacker-Crackdown--law-and-disorder-on-the-electronic-frontier_101[@rsperberg's mirror]
+
+And of course this book is available from http://www.gutenberg.org/ebooks/101[Project Gutenberg] in many formats including epub.
+
