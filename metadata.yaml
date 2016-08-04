@@ -1,0 +1,25 @@
+_repo: The-Hacker-Crackdown--law-and-disorder-on-the-electronic-frontier_101
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Sterling, Bruce
+    birthdate: 1954
+    gutenberg_agent_id: '66'
+    url: http://www.gutenberg.org/2009/agents/66
+description: ''
+gutenberg_issued: '1994-01-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '101'
+language: en
+publisher: Project Gutenberg
+rights: Copyrighted. Read the copyright notice inside this book for details.
+rights_url: ''
+subjects:
+- !lcsh 'Computer programming -- Corrupt practices -- United States'
+- !lcc 'HV'
+- !lcsh 'Computer crimes -- United States'
+- !lcsh 'Telephone -- Corrupt practices -- United States'
+- GITenberg
+title: 'The Hacker Crackdown: Law and Disorder on the Electronic Frontier'
+url: http://www.gutenberg.org/ebooks/101
